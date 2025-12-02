@@ -42,6 +42,9 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 ## CIRCUIT DIAGRAM
 <img width="836" height="455" alt="image" src="https://github.com/user-attachments/assets/e5181151-836f-4f80-8f56-53b23ff05c74" />
 
+## SIMULATION CIRCUIT DIAGRAM
+<img width="1174" height="841" alt="image" src="https://github.com/user-attachments/assets/4f161465-e278-416b-bc52-b1a7633b9ae1" />
+
 
 ## MODEL GRAPH
 <img width="913" height="559" alt="image" src="https://github.com/user-attachments/assets/c8d28c41-6f3e-44a6-a9da-2b798cf07346" />
@@ -76,27 +79,16 @@ PROCEDURE - (LPF):
 
 ## TABULATION
 
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
-		
-
+![WhatsApp Image 2025-11-16 at 22 30 59_eef1730c](https://github.com/user-attachments/assets/e74ac699-87db-4ea9-b467-911b9cff143e)
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-16 at 22 31 04_3d4e1343](https://github.com/user-attachments/assets/1d50d4ea-2a09-4ae3-9b9d-7844db5e718f)
 
 ---
+## SIMULATION WAVEFORM
+<img width="1177" height="296" alt="image" src="https://github.com/user-attachments/assets/542a2c6b-6a05-49dc-8761-97838f2f38c3" />
+
 
  ## 6 B HIGH PASS FILTER
 
