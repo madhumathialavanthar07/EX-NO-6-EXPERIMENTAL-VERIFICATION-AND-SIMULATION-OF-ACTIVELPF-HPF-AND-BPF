@@ -1,13 +1,10 @@
 # EX-NO-6-EXPERIMENTAL-VERIFICATION-AND-SIMULATION-OF-ACTIVELPF-HPF-AND-BPF
 ## 6 DESIGN OF ACTIVE LOW PASS, HIGH PASS AND BAND PASS FILTERS USING OP-AMP
-            
-**DATE:**  
-         
 ---
 
 ## AIM
             
-**DATE:**  
+## DATE: 27.09.2025  
          
 ---
 
@@ -91,6 +88,7 @@ PROCEDURE - (LPF):
 
 
  ## 6 B HIGH PASS FILTER
+ ## DATE : 04.10.2025
 
 ---
 
@@ -114,12 +112,15 @@ A HPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 ## CIRCUIT DIAGRAM
 
-<img width="887" height="486" alt="image" src="https://github.com/user-attachments/assets/907a1395-28d4-406f-ac09-96c4e060587e" />
+<img width="660" height="343" alt="image" src="https://github.com/user-attachments/assets/f3d7466c-244d-49a8-a017-746e467feec7" />
+
+## SIMULATION CIRCUIT DIAGRAM
+<img width="1222" height="759" alt="image" src="https://github.com/user-attachments/assets/b41530dd-f7ed-40dd-8906-342266dbe128" />
 
 
 ## MODEL GRAPH
 
-<img width="1005" height="382" alt="image" src="https://github.com/user-attachments/assets/22925efc-4abc-4fad-90d5-94f3348c3c0b" />
+<img width="1250" height="558" alt="image" src="https://github.com/user-attachments/assets/54944820-2d8b-492a-bc24-3b7987b23ec0" />
 
 ---
 
@@ -151,29 +152,21 @@ PROCEDURE - ( HPF):
 
 ## TABULATION
 
-		
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
+![WhatsApp Image 2025-11-16 at 22 31 05_3bfb6ca4](https://github.com/user-attachments/assets/a254044a-bcf1-489a-a7bc-7b97b2c76ca7)
 
----
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+![WhatsApp Image 2025-11-16 at 22 31 05_e24dc4a5](https://github.com/user-attachments/assets/890f00b8-1d1e-4332-958b-f58a17c0f1b6)
+
 ---
 
+## SIMULATION WAVEFORM
+<img width="1234" height="290" alt="image" src="https://github.com/user-attachments/assets/f4ae5734-fa9b-4d09-af8a-3fd5b9e63c7e" />
+
+
  ## 6C Band Pass Filter
+ ## DATE : 11.10.2025
 
 ---
 
@@ -198,6 +191,10 @@ A BPF allows frequencies in between lower cut of frequency and higher cut of fre
 ## CIRCUIT DIAGRAM
 
 <img width="1068" height="446" alt="image" src="https://github.com/user-attachments/assets/ee37b95a-05ea-448c-9102-111e071e41e8" />
+
+## SIMULATION CIRCUIT DIAGRAM
+<img width="1165" height="684" alt="image" src="https://github.com/user-attachments/assets/daea5c57-8b44-4d9f-8c14-bfbb6cf16898" />
+
 
 ## MODEL GRAPH
 
@@ -236,27 +233,18 @@ PROCEDURE:BAND PASS FILTER
 
 ## TABULATION
 
-		
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
-
+![WhatsApp Image 2025-11-16 at 22 31 05_e3b3f274](https://github.com/user-attachments/assets/531d80ab-c7e7-4caa-973d-1b8f82e43111)
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+![WhatsApp Image 2025-11-16 at 22 31 06_f11bf9e4](https://github.com/user-attachments/assets/fd790afc-531d-4866-85ad-353e711662ac)
+
 ---
+
+## SIMULATION WAVEFORM
+<img width="1219" height="305" alt="image" src="https://github.com/user-attachments/assets/23ab22df-3cbb-4223-8c77-64bfb85342ed" />
+
 ##RESULT:
 	Thus an Active Low pass, High pass and Band Pass Filters are designed and
 tested using op-amp IC 741.
